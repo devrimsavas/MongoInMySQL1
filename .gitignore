@@ -1,0 +1,12 @@
+# Ignore appsettings containing sensitive info
+appsettings.json
+appsettings.Development.json
+
+# Ignore package directories
+bin/
+obj/
+packages/
+
+# Ignore user-specific files
+.vscode/
+*.csproj.user
