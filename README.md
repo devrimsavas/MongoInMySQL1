@@ -1,4 +1,4 @@
-# Simple ASP.NET Core Tutorial with Entity Framework Core and Dapper LESSON 2.3
+# e ASP.NET Core Tutorial with Entity Framework Core and Dapper 
 
 ## 1. Install Packages
 
